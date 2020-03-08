@@ -9,7 +9,7 @@ function App() {
     <br />
     <img src={imageInSrc} alt="img" />
     <br />
-	  <img src={imageInSrc} alt="img" />
+	  <img src="/katablade.jpg" alt="img" />
     </div>
 
   );
